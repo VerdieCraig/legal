@@ -84,8 +84,8 @@ If any provision of these Terms is held to be unenforceable or invalid, such pro
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** contact@darklotus.dev
-**Website:** https://darklotus.dev
+**Email:** contact@darklotus.dev  
+**Website:** https://darklotus.dev  
 **Developer:** Dark Lotus Dev
 
 ---
