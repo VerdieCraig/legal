@@ -1,7 +1,7 @@
 # Privacy Policy for Routinely
 
-**Effective Date:** [INSERT DATE]
-**Last Updated:** [INSERT DATE]
+**Effective Date:** April 15, 2026
+**Last Updated:** April 15, 2026
 
 ## Overview
 
