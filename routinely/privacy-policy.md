@@ -1,6 +1,6 @@
 # Privacy Policy for Routinely
 
-**Effective Date:** April 15, 2026
+**Effective Date:** April 15, 2026  
 **Last Updated:** April 15, 2026
 
 ## Overview
@@ -72,8 +72,8 @@ Since we do not collect any personal data, there is no data for us to access, mo
 
 If you have any questions about this Privacy Policy or the App, please contact us at:
 
-**Email:** contact@darklotus.dev
-**Website:** https://darklotus.dev
+**Email:** contact@darklotus.dev  
+**Website:** https://darklotus.dev  
 **Developer:** Dark Lotus Dev
 
 ## Consent
