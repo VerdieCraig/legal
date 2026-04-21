@@ -1,6 +1,6 @@
 # Terms of Service for Tradely
 
-**Last Updated:** [INSERT DATE]
+**Last Updated:** April 21, 2026
 
 ## 1. Acceptance of Terms
 
