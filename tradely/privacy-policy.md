@@ -1,6 +1,6 @@
 # Privacy Policy for Tradely
 
-**Effective Date:** April 21, 2026
+**Effective Date:** April 21, 2026  
 **Last Updated:** April 21, 2026
 
 ## Overview
@@ -83,8 +83,8 @@ We may update this Privacy Policy from time to time. When we do, we will revise 
 
 If you have questions about this Privacy Policy or wish to request data deletion, please contact us at:
 
-**Email:** contact@darklotus.dev
-**Website:** https://darklotus.dev
+**Email:** contact@darklotus.dev  
+**Website:** https://darklotus.dev  
 **Developer:** Dark Lotus Dev
 
 ---
