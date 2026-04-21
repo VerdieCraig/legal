@@ -1,7 +1,7 @@
 # Privacy Policy for Tradely
 
-**Effective Date:** [INSERT DATE]
-**Last Updated:** [INSERT DATE]
+**Effective Date:** April 21, 2026
+**Last Updated:** April 21, 2026
 
 ## Overview
 
