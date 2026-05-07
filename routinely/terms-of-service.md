@@ -1,6 +1,6 @@
 # Terms of Service for Routinely
 
-**Last Updated:** April 15, 2026
+**Last Updated:** May 6, 2026
 
 ## 1. Acceptance of Terms
 
